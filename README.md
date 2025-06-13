@@ -41,6 +41,11 @@ A simple, containerized local LLM setup using Ollama and Docker Compose.
      curl http://localhost:11434/api/generate -d '{"model":"llama3","prompt":"Why is the sky blue?"}'
      ```
 
+6. **When you're done - remember to clean up after yourself !**
+   ```
+   docker compose down -v
+   ```
+
 ## Project Structure
 
 ```
