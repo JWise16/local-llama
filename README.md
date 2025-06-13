@@ -17,7 +17,7 @@ A simple, containerized local LLM setup using Ollama and Docker Compose.
 
 2. **Clone this repository**
    ```
-   git clone https://github.com/your-username/local-llm-tutorial-basic.git
+   git clone https://github.com/JWise16/local-llama.git 
    cd local-llm-tutorial-basic
    ```
 
